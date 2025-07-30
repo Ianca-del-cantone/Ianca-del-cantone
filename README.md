@@ -11,7 +11,7 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 - 🧩 Conhecimento em testes manuais exploratórios e funcionais com base nos princípios fundamentais de teste  
 - 🔍 Foco em boas práticas de escrita de casos de teste, cenários e documentação clara  
 - 🛠️ Aprendizado constante sobre cobertura de testes, rastreabilidade e estratégia de QA  
-- 📎 Conhecimento introdutório em ferramentas como Jira  
+- 📎 Conhecimento introdutório em ferramentas como Jira e Postman
 - 🚀 Desenvolvimento de projetos para portfólio com foco em testes E2E e geração de relatórios HTML  
 
 ---
