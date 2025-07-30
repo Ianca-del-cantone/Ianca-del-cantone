@@ -1,16 +1,30 @@
-## Hi there 👋
+💙  Olá, eu sou a Ianca!
+Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na prática conceitos de testes manuais e automatizados, buscando sempre enxergar a qualidade de forma completa: dos testes à prevenção, da melhoria contínua à entrega com valor. 
 
-<!--
-**Ianca-del-cantone/Ianca-del-cantone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📝 Sobre mim
+
+🧠 Estudante de QA com foco em fundamentos sólidos e aprendizado contínuo📚 Estudo e prática de automação de testes com Selenium WebDriver + Python + Pytest
+🧩 Conhecimento em testes manuais exploratórios, funcionais e de regressão, com base nos princípios fundamentais de teste
+🔍 Foco em boas práticas de escrita de casos de teste, cenários e documentação clara
+🛠️ Aprendizado constante sobre cobertura de testes, rastreabilidade e estratégia de QA
+📎 Conhecimento introdutório em ferramentas como Jira 
+🚀 Desenvolvimento de projetos para portfólio com foco em testes E2E e geração de relatórios HTML
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+### 🧰 Tecnologias e Ferramentas em Aprendizado
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
