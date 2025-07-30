@@ -16,7 +16,7 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 
 ---
 
-### 🧰 Tecnologias e Ferramentas em Aprendizado
+### 🧰 Tecnologias e Ferramentas 
 
 <p>
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -26,6 +26,9 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+
+
 
 
 
