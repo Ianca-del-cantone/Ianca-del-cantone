@@ -1,9 +1,7 @@
 💙  Olá, eu sou a Ianca!
 Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na prática conceitos de testes manuais e automatizados, buscando sempre enxergar a qualidade de forma completa: dos testes à prevenção, da melhoria contínua à entrega com valor. 
 
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+---
 
 📝 Sobre mim
 
@@ -15,7 +13,7 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 🚀 Desenvolvimento de projetos para portfólio com foco em testes E2E e geração de relatórios HTML
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 
 ### 🧰 Tecnologias e Ferramentas em Aprendizado
