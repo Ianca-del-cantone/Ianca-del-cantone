@@ -8,7 +8,7 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 
 - 🧠 Estudante de QA com foco em fundamentos sólidos e aprendizado contínuo  
 - 📚 Estudo e prática de automação de testes com Selenium WebDriver + Python + Pytest  
-- 🧩 Conhecimento em testes manuais exploratórios, funcionais e de regressão, com base nos princípios fundamentais de teste  
+- 🧩 Conhecimento em testes manuais exploratórios e funcionais com base nos princípios fundamentais de teste  
 - 🔍 Foco em boas práticas de escrita de casos de teste, cenários e documentação clara  
 - 🛠️ Aprendizado constante sobre cobertura de testes, rastreabilidade e estratégia de QA  
 - 📎 Conhecimento introdutório em ferramentas como Jira  
