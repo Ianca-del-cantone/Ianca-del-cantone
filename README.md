@@ -29,7 +29,7 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 
 ---
 
-### 📚 Meus Registros de Aprendizado e Iniciativas em Qualidade
+### 📚 Meus Registros de Aprendizado e Projetos de Qualidade
 
 [Documentação de Qualidade: User Stories na Prática](https://github.com/Ianca-del-cantone/user-story/blob/main/README.md#-documenta%C3%A7%C3%A3o-de-qualidade-user-stories-na-pr%C3%A1tica)
 
