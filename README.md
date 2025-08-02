@@ -27,6 +27,12 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+---
+
+📚 Meus Registros de Aprendizado e Iniciativas em Qualidade
+
+
+
 
 
 
