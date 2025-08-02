@@ -29,7 +29,7 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 
 ---
 
-📚 Meus Registros de Aprendizado e Iniciativas em Qualidade
+### 📚 Meus Registros de Aprendizado e Iniciativas em Qualidade
 
 
 
