@@ -1,4 +1,4 @@
-# 💙 Olá, eu sou a Ianca!
+## 💙 Olá, eu sou a Ianca!
 
 Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na prática conceitos de testes manuais e automatizados, buscando sempre enxergar a qualidade de forma completa: dos testes à prevenção, da melhoria contínua à entrega com valor.
 
