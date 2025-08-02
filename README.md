@@ -4,7 +4,7 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 
 ---
 
-## 📝 Sobre mim
+### 📝 Sobre mim
 
 - 🧠 Estudante de QA com foco em fundamentos sólidos e aprendizado contínuo  
 - 📚 Estudo e prática de automação de testes com Selenium WebDriver + Python + Pytest  
