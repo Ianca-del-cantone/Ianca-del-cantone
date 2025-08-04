@@ -36,8 +36,8 @@ Documentação completa de user stories, com regras de negócio e critérios de 
 
 [Suíte de Testes na Prática](https://github.com/Ianca-del-cantone/su-te-de-teste-adicionar-itens/blob/main/README.md)
 
-Documentação de uma suíte de testes estruturada com Gherkin, incluindo critérios de aceite, prioridade, severidade e foco em qualidade de software.
-
+Documentação de uma suíte de testes estruturada com Gherkin, voltada para validar a funcionalidade de adicionar itens a uma lista.
+Inclui critérios de aceite, definição de prioridade e severidade, com foco na garantia da qualidade de software.
 
 
 
