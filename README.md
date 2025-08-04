@@ -35,9 +35,10 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 
 Documentação completa de user stories, com regras de negócio e critérios de aceite, que exemplifica como estruturar requisitos e testes na área de QA.
 
-[Documentação de Qualidade: Suíte de Testes na Prática](https://github.com/Ianca-del-cantone/su-te-de-teste-adicionar-itens/blob/main/README.md)
+[Suíte de Testes na Prática](https://github.com/Ianca-del-cantone/su-te-de-teste-adicionar-itens/blob/main/README.md)
 
-Simulação prática da documentação de uma suíte de testes com foco em clareza, critérios de aceite em Gherkin e análise de prioridade e severidade.
+Documentação de uma suíte de testes estruturada com Gherkin, incluindo critérios de aceite, prioridade, severidade e foco em qualidade de software.
+
 
 
 
