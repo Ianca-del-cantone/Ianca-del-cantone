@@ -41,7 +41,7 @@ Inclui critérios de aceite, definição de prioridade e severidade, com foco na
 
 [Suíte de Testes na Prática - Validar filtro Todos"All"](https://github.com/Ianca-del-cantone/suite-de-testes-filtros/blob/main/README.md)
 
-Documentação de testes com Gherkin para validar o comportamento do filtro "Todos (All)" na lista de tarefas da aplicação TodoMVC..
+Documentação de testes com Gherkin para validar o comportamento do filtro "Todos (All)" na lista de tarefas da aplicação TodoMVC.
 Inclui critérios de aceite e categorização por prioridade e severidade.
 
 [Suíte de Testes na Prática - Validar filtro Ativos"Active"](https://github.com/Ianca-del-cantone/suite-de-teste-validar-filtro/blob/main/README.md)
