@@ -49,6 +49,13 @@ Inclui critérios de aceite e categorização por prioridade e severidade.
 Documentação de uma suíte de testes estruturada com Gherkin, voltada para validar o filtro "Active" na lista de tarefas da aplicação TodoMVC.
 Inclui critérios de aceite, definição de prioridade e severidade, com foco na garantia da qualidade de software.
 
+[Suíte de Testes na Prática - Validar filtro Concluidos"Completed"](https://github.com/Ianca-del-cantone/suite-de-teste-validar-filtro-completed/blob/main/README.md)
+
+Esta suíte de testes foi elaborada utilizando a linguagem Gherkin para validar o comportamento do filtro "Completed" na aplicação TodoMVC.
+A documentação contempla critérios de aceite, além da definição de prioridade e severidade de cada cenário, com foco em assegurar a qualidade da funcionalidade testada.
+
+
+
 
 
 
