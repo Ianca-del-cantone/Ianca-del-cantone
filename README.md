@@ -39,22 +39,25 @@ Documentação completa de user stories, com regras de negócio e critérios de 
 Documentação de uma suíte de testes estruturada com Gherkin, voltada para validar a funcionalidade de adicionar itens a uma lista.
 Inclui critérios de aceite, definição de prioridade e severidade, com foco na garantia da qualidade de software.
 
-[Suíte de Testes na Prática - Validar filtro Todos"All"](https://github.com/Ianca-del-cantone/suite-de-testes-filtros/blob/main/README.md)
+[Suíte de Testes na Prática - Validar filtro All"(Todos)"](https://github.com/Ianca-del-cantone/suite-de-testes-filtros/blob/main/README.md)
 
 Documentação de testes com Gherkin para validar o comportamento do filtro "Todos (All)" na lista de tarefas da aplicação TodoMVC.
 Inclui critérios de aceite e categorização por prioridade e severidade.
 
-[Suíte de Testes na Prática - Validar filtro Ativos"Active"](https://github.com/Ianca-del-cantone/suite-de-teste-validar-filtro/blob/main/README.md)
+[Suíte de Testes na Prática - Validar filtro Active"(Ativos)"](https://github.com/Ianca-del-cantone/suite-de-teste-validar-filtro/blob/main/README.md)
 
 Documentação de uma suíte de testes estruturada com Gherkin, voltada para validar o filtro "Active" na lista de tarefas da aplicação TodoMVC.
 Inclui critérios de aceite, definição de prioridade e severidade, com foco na garantia da qualidade de software.
 
-[Suíte de Testes na Prática - Validar filtro Concluidos"Completed"](https://github.com/Ianca-del-cantone/suite-de-teste-validar-filtro-completed/blob/main/README.md)
+[Suíte de Testes na Prática - Validar filtro Completed"(Concluidos)"](https://github.com/Ianca-del-cantone/suite-de-teste-validar-filtro-completed/blob/main/README.md)
 
 Esta suíte de testes foi elaborada utilizando a linguagem Gherkin para validar o comportamento do filtro "Completed" na aplicação TodoMVC.
 A documentação contempla critérios de aceite, além da definição de prioridade e severidade de cada cenário, com foco em assegurar a qualidade da funcionalidade testada.
 
+[Suíte de Testes na Prática - Validar filtro Clear Completed"(Limpar Tarefas Concluidas)"](https://github.com/Ianca-del-cantone/suite-de-teste-validar-filtro-clear-completed/blob/main/README.md)
 
+Esta suíte de testes foi elaborada utilizando a linguagem Gherkin para validar o comportamento do filtro "Clear Completed" na aplicação TodoMVC.
+A documentação contempla critérios de aceite, além da definição de prioridade e severidade de cada cenário, com foco em assegurar a qualidade da funcionalidade testada.
 
 
 
