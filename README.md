@@ -1,30 +1,66 @@
-## 💙 Olá, eu sou a Ianca!
+<div align="center">
+
+![Ianca — Quality Assurance, Mobile Testing and Test Automation](./assets/qa-space-banner.svg)
+
+### 👩‍🚀 Olá, eu sou a Ianca! | Quality Assurance
+
+**Testes manuais • Testes Mobile (Android & iOS) • Automação de testes • Qualidade de software**
+
+*Gosto de encontrar problemas antes que eles cheguem ao usuário — e transformar cada descoberta em melhoria.*
+
+<img src="https://img.shields.io/badge/QA-Quality%20Assurance-A88BFA?style=for-the-badge" alt="QA" />
+<img src="https://img.shields.io/badge/FOCO-Mobile%20%26%20Web-6C9CF7?style=for-the-badge" alt="Mobile e Web" />
+<img src="https://img.shields.io/badge/TESTES-Manual%20%2B%20Automa%C3%A7%C3%A3o-8D71DB?style=for-the-badge" alt="Testes manuais e automatizados" />
+
+</div>
+
+---
+
+## 🪐 Sobre mim
 
 Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na prática conceitos de testes manuais e automatizados, buscando sempre enxergar a qualidade de forma completa: dos testes à prevenção, da melhoria contínua à entrega com valor.
 
----
-
-### 📝 Sobre mim
-
-- 🧠 Estudante de QA com foco em fundamentos sólidos e aprendizado contínuo  
-- 📚 Estudo e prática de automação de testes com Selenium WebDriver + Python + Pytest  
-- 🧩 Conhecimento em testes manuais exploratórios e funcionais com base nos princípios fundamentais de teste  
-- 🔍 Foco em boas práticas de escrita de casos de teste, cenários e documentação clara  
-- 🛠️ Aprendizado constante sobre cobertura de testes, rastreabilidade e estratégia de QA  
-- 📎 Conhecimento introdutório em Jira 
-- 🚀 Desenvolvimento de projetos para portfólio com foco em testes E2E e geração de relatórios.
+- 🧠 Estudante de QA com foco em fundamentos sólidos e aprendizado contínuo
+- 📚 Estudo e prática de automação de testes com Selenium WebDriver + Python + Pytest
+- 🧩 Conhecimento em testes manuais exploratórios e funcionais com base nos princípios fundamentais de teste
+- 🔍 Foco em boas práticas de escrita de casos de teste, cenários e documentação clara
+- 🛠️ Aprendizado constante sobre cobertura de testes, rastreabilidade e estratégia de QA
+- 📎 Conhecimento introdutório em Jira
+- 🚀 Desenvolvimento de projetos para portfólio com foco em testes E2E e geração de relatórios
 
 ---
 
-### 🧰 Tecnologias e Ferramentas 
+## 🧰 Stack de QA | Ferramentas e tecnologias
 
-<p>
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<div align="center">
+
+**Automação e programação**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-7354B5?style=for-the-badge)
+
+**Testes de API e mobile**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-555555?style=for-the-badge&logo=apple&logoColor=white)
+
+**Gestão, documentação e colaboração**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Minha jornada em qualidade
+
+`Planejar` → `Criar cenários` → `Executar testes` → `Reportar bugs` → `Automatizar` → `Melhorar`
 
 ---
 
@@ -59,10 +95,25 @@ A documentação contempla critérios de aceite, além da definição de priorid
 Esta suíte de testes foi elaborada utilizando a linguagem Gherkin para validar o comportamento do filtro "Clear Completed" na aplicação TodoMVC.
 A documentação contempla critérios de aceite, além da definição de prioridade e severidade de cada cenário, com foco em assegurar a qualidade da funcionalidade testada.
 
+---
 
+## 📊 Atividade no GitHub
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Ianca-del-cantone&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas de GitHub da Ianca" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianca-del-cantone&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens dos repositórios" />
 
+<img src="https://streak-stats.demolab.com?user=Ianca-del-cantone&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 
+</div>
 
+---
 
+<div align="center">
+
+### ✨ Quality is a journey, not a checkpoint.
+
+*Obrigada por visitar meu perfil! Explore meus projetos e acompanhe minha evolução em QA.* 🦝🚀
+
+</div>
