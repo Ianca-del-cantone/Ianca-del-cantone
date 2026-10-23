@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ianca, Quality Assurance, Mobile Testing and Test Automation](./assets/qa-space-banner.svg)
+![Ianca, Quality Assurance, Mobile Testing and Test Automation](./assets/qa-space-banner-v2.svg)
 
 ### 👩‍🚀 Olá, eu sou a Ianca! | Quality Assurance
 
