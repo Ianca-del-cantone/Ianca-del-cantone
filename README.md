@@ -1,12 +1,12 @@
 <div align="center">
 
-![Ianca — Quality Assurance, Mobile Testing and Test Automation](./assets/qa-space-banner.svg)
+![Ianca, Quality Assurance, Mobile Testing and Test Automation](./assets/qa-space-banner.svg)
 
 ### 👩‍🚀 Olá, eu sou a Ianca! | Quality Assurance
 
 **Testes manuais • Testes Mobile (Android & iOS) • Automação de testes • Qualidade de software**
 
-*Gosto de encontrar problemas antes que eles cheguem ao usuário — e transformar cada descoberta em melhoria.*
+*Gosto de encontrar problemas antes que eles cheguem ao usuário e transformar cada descoberta em melhoria.*
 
 <img src="https://img.shields.io/badge/QA-Quality%20Assurance-A88BFA?style=for-the-badge" alt="QA" />
 <img src="https://img.shields.io/badge/FOCO-Mobile%20%26%20Web-6C9CF7?style=for-the-badge" alt="Mobile e Web" />
@@ -18,7 +18,7 @@
 
 ## 🪐 Sobre mim
 
-Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na prática conceitos de testes manuais e automatizados, buscando sempre enxergar a qualidade de forma completa: dos testes à prevenção, da melhoria contínua à entrega com valor.
+Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na prática conceitos de testes manuais e automatizados, buscando sempre enxergar a qualidade de forma completa: da execução dos testes à prevenção de problemas, da melhoria contínua à entrega de valor.
 
 - 🧠 Estudante de QA com foco em fundamentos sólidos e aprendizado contínuo
 - 📚 Estudo e prática de automação de testes com Selenium WebDriver + Python + Pytest
@@ -30,9 +30,9 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 
 ---
 
-## 🧰 Stack de QA | Ferramentas e tecnologias
+## 🧰 Ferramentas e tecnologias
 
-<div align="center">
+
 
 **Automação e programação**
 
@@ -54,7 +54,7 @@ Sou estudante de Sistemas de Informação com foco em QA. Tenho explorado na pr�
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+
 
 ---
 
