@@ -12,19 +12,19 @@
 <g transform="translate(875 113)">
 <rect x="20" y="0" width="260" height="236" rx="18" fill="#171633" stroke="#9974ff" stroke-width="6"/>
 <rect x="48" y="22" width="204" height="37" rx="8" fill="#352c68"/>
-<text x="61" y="47" fill="#e9e5ff" font-family="monospace" font-size="19">PAINEL DE QA</text>
+<text x="61" y="47" fill="#e9e5ff" font-family="monospace" font-size="19">QA DASHBOARD</text>
 <g font-family="monospace" font-size="17" fill="#e5e8ff">
-<rect x="50" y="78" width="22" height="22" rx="5" fill="#62dfcf"/><path d="M55 88 l5 6 11 -13" fill="none" stroke="#101c35" stroke-width="3"/><text x="86" y="95">Testar</text>
-<rect x="50" y="113" width="22" height="22" rx="5" fill="#62dfcf"/><path d="M55 123 l5 6 11 -13" fill="none" stroke="#101c35" stroke-width="3"/><text x="86" y="130">Automatizar</text>
-<rect x="50" y="148" width="22" height="22" rx="5" fill="#62dfcf"/><path d="M55 158 l5 6 11 -13" fill="none" stroke="#101c35" stroke-width="3"/><text x="86" y="165">Reportar</text>
-<rect x="50" y="183" width="22" height="22" rx="5" fill="none" stroke="#aa86f4" stroke-width="3"/><text x="86" y="200">Melhorar</text>
+<rect x="50" y="78" width="22" height="22" rx="5" fill="#62dfcf"/><path d="M55 88 l5 6 11 -13" fill="none" stroke="#101c35" stroke-width="3"/><text x="86" y="95">Test</text>
+<rect x="50" y="113" width="22" height="22" rx="5" fill="#62dfcf"/><path d="M55 123 l5 6 11 -13" fill="none" stroke="#101c35" stroke-width="3"/><text x="86" y="130">Automate</text>
+<rect x="50" y="148" width="22" height="22" rx="5" fill="#62dfcf"/><path d="M55 158 l5 6 11 -13" fill="none" stroke="#101c35" stroke-width="3"/><text x="86" y="165">Report</text>
+<rect x="50" y="183" width="22" height="22" rx="5" fill="none" stroke="#aa86f4" stroke-width="3"/><text x="86" y="200">Improve</text>
 </g></g>
-<text x="65" y="83" fill="#d9ceff" font-family="monospace" font-size="23" letter-spacing="5">OLÁ, EU SOU</text>
+<text x="65" y="83" fill="#d9ceff" font-family="monospace" font-size="23" letter-spacing="5">HI, I'M</text>
 <text x="59" y="166" fill="url(#neon)" font-family="monospace" font-weight="bold" font-size="75">IANCA</text>
-<text x="65" y="214" fill="#f2efff" font-family="monospace" font-size="27">ENGENHEIRA DE QUALIDADE (QA)</text>
+<text x="65" y="214" fill="#f2efff" font-family="monospace" font-size="27">QA ENGINEER</text>
 <rect x="65" y="240" width="318" height="6" rx="3" fill="#37345b"/><rect x="65" y="240" width="227" height="6" rx="3" fill="url(#neon)"/>
-<text x="65" y="296" fill="#d8d8ef" font-family="monospace" font-size="22">TESTES MANUAIS / MOBILE / AUTOMAÇÃO</text>
-<text x="65" y="340" fill="#86ead8" font-family="monospace" font-size="19">[ TESTAR ] [ AUTOMATIZAR ] [ MELHORAR ]</text>
+<text x="65" y="296" fill="#d8d8ef" font-family="monospace" font-size="22">MANUAL TESTING / MOBILE / AUTOMATION</text>
+<text x="65" y="340" fill="#86ead8" font-family="monospace" font-size="19">[ TEST ] [ AUTOMATE ] [ IMPROVE ]</text>
 <path d="M725 260 Q810 185 875 215" fill="none" stroke="#8966f0" stroke-width="3" stroke-dasharray="5 12"/>
 <text x="755" y="156" font-family="monospace" fill="#a897f5" font-size="24">&lt;/&gt;</text>
 </svg>
