@@ -6,7 +6,6 @@
 
 **Testes manuais • Testes Mobile (Android & iOS) • Automação de testes • Qualidade de software**
 
-*Gosto de encontrar problemas antes que eles cheguem ao usuário e transformar cada descoberta em melhoria.*
 
 <img src="https://img.shields.io/badge/QA-Quality%20Assurance-A88BFA?style=for-the-badge" alt="QA" />
 <img src="https://img.shields.io/badge/FOCO-Mobile%20%26%20Web-6C9CF7?style=for-the-badge" alt="Mobile e Web" />
