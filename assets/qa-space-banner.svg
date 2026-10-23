@@ -7,19 +7,53 @@
 </defs>
 <rect width="1200" height="400" rx="23" fill="url(#bg)"/>
 <g fill="#c3c4ff"><circle cx="37" cy="25" r="2.2" opacity="0.25"/><circle cx="174" cy="108" r="0.9" opacity="0.38"/><circle cx="311" cy="191" r="0.9" opacity="0.51"/><circle cx="448" cy="274" r="0.9" opacity="0.64"/><circle cx="585" cy="357" r="0.9" opacity="0.77"/><circle cx="722" cy="65" r="0.9" opacity="0.25"/><circle cx="859" cy="148" r="2.2" opacity="0.38"/><circle cx="996" cy="231" r="0.9" opacity="0.51"/><circle cx="1133" cy="314" r="0.9" opacity="0.64"/><circle cx="90" cy="22" r="0.9" opacity="0.77"/><circle cx="227" cy="105" r="0.9" opacity="0.25"/><circle cx="364" cy="188" r="0.9" opacity="0.38"/><circle cx="501" cy="271" r="2.2" opacity="0.51"/><circle cx="638" cy="354" r="0.9" opacity="0.64"/><circle cx="775" cy="62" r="0.9" opacity="0.77"/><circle cx="912" cy="145" r="0.9" opacity="0.25"/><circle cx="1049" cy="228" r="0.9" opacity="0.38"/><circle cx="6" cy="311" r="0.9" opacity="0.51"/><circle cx="143" cy="19" r="2.2" opacity="0.64"/><circle cx="280" cy="102" r="0.9" opacity="0.77"/><circle cx="417" cy="185" r="0.9" opacity="0.25"/><circle cx="554" cy="268" r="0.9" opacity="0.38"/><circle cx="691" cy="351" r="0.9" opacity="0.51"/><circle cx="828" cy="59" r="0.9" opacity="0.64"/><circle cx="965" cy="142" r="2.2" opacity="0.77"/><circle cx="1102" cy="225" r="0.9" opacity="0.25"/><circle cx="59" cy="308" r="0.9" opacity="0.38"/><circle cx="196" cy="16" r="0.9" opacity="0.51"/><circle cx="333" cy="99" r="0.9" opacity="0.64"/><circle cx="470" cy="182" r="0.9" opacity="0.77"/><circle cx="607" cy="265" r="2.2" opacity="0.25"/><circle cx="744" cy="348" r="0.9" opacity="0.38"/><circle cx="881" cy="56" r="0.9" opacity="0.51"/><circle cx="1018" cy="139" r="0.9" opacity="0.64"/><circle cx="1155" cy="222" r="0.9" opacity="0.77"/><circle cx="112" cy="305" r="0.9" opacity="0.25"/><circle cx="249" cy="13" r="2.2" opacity="0.38"/><circle cx="386" cy="96" r="0.9" opacity="0.51"/><circle cx="523" cy="179" r="0.9" opacity="0.64"/><circle cx="660" cy="262" r="0.9" opacity="0.77"/><circle cx="797" cy="345" r="0.9" opacity="0.25"/><circle cx="934" cy="53" r="0.9" opacity="0.38"/><circle cx="1071" cy="136" r="2.2" opacity="0.51"/><circle cx="28" cy="219" r="0.9" opacity="0.64"/><circle cx="165" cy="302" r="0.9" opacity="0.77"/><circle cx="302" cy="10" r="0.9" opacity="0.25"/><circle cx="439" cy="93" r="0.9" opacity="0.38"/><circle cx="576" cy="176" r="0.9" opacity="0.51"/><circle cx="713" cy="259" r="2.2" opacity="0.64"/><circle cx="850" cy="342" r="0.9" opacity="0.77"/><circle cx="987" cy="50" r="0.9" opacity="0.25"/><circle cx="1124" cy="133" r="0.9" opacity="0.38"/><circle cx="81" cy="216" r="0.9" opacity="0.51"/><circle cx="218" cy="299" r="0.9" opacity="0.64"/><circle cx="355" cy="7" r="2.2" opacity="0.77"/><circle cx="492" cy="90" r="0.9" opacity="0.25"/><circle cx="629" cy="173" r="0.9" opacity="0.38"/><circle cx="766" cy="256" r="0.9" opacity="0.51"/></g>
-<circle cx="1060" cy="88" r="48" fill="#5035a3" opacity=".5"/><ellipse cx="1060" cy="88" rx="77" ry="17" fill="none" stroke="#9179f5" stroke-width="7" transform="rotate(-22 1060 88)"/>
-<circle cx="1040" cy="355" r="173" fill="url(#moon)"/><g fill="#6c50b5" opacity=".55"><ellipse cx="936" cy="299" rx="35" ry="19" transform="rotate(-20 936 299)"/><circle cx="1101" cy="307" r="30"/><circle cx="1005" cy="371" r="21"/><circle cx="1161" cy="372" r="40"/></g>
-<g transform="translate(875 113)">
-<rect x="20" y="0" width="260" height="236" rx="18" fill="#171633" stroke="#9974ff" stroke-width="6"/>
-<rect x="48" y="22" width="204" height="37" rx="8" fill="#352c68"/>
-<text x="61" y="47" fill="#e9e5ff" font-family="monospace" font-size="19">QA DASHBOARD</text>
-<g font-family="monospace" font-size="17" fill="#e5e8ff">
-<rect x="50" y="78" width="22" height="22" rx="5" fill="#62dfcf"/><path d="M55 88 l5 6 11 -13" fill="none" stroke="#101c35" stroke-width="3"/><text x="86" y="95">Test</text>
-<rect x="50" y="113" width="22" height="22" rx="5" fill="#62dfcf"/><path d="M55 123 l5 6 11 -13" fill="none" stroke="#101c35" stroke-width="3"/><text x="86" y="130">Automate</text>
-<rect x="50" y="148" width="22" height="22" rx="5" fill="#62dfcf"/><path d="M55 158 l5 6 11 -13" fill="none" stroke="#101c35" stroke-width="3"/><text x="86" y="165">Report</text>
-<rect x="50" y="183" width="22" height="22" rx="5" fill="none" stroke="#aa86f4" stroke-width="3"/><text x="86" y="200">Improve</text>
-</g></g>
-<text x="65" y="83" fill="#d9ceff" font-family="monospace" font-size="23" letter-spacing="5">HI, I'M</text>
+
+<!-- Cosmic QA workstation -->
+<g opacity=".92">
+<circle cx="850" cy="78" r="39" fill="#6143ce"/><path d="M813 68 Q849 35 884 62 M813 82 Q851 53 887 80 M826 102 Q856 84 883 92" fill="none" stroke="#8c6df4" stroke-width="5" opacity=".65"/>
+<ellipse cx="850" cy="78" rx="70" ry="17" transform="rotate(-21 850 78)" fill="none" stroke="#9275ff" stroke-width="7"/>
+<path d="M760 242 Q841 107 975 126 T1200 114" fill="none" stroke="#8b53ed" stroke-width="2" stroke-dasharray="7 11" opacity=".7"/>
+<circle cx="1093" cy="49" r="15" fill="#fa5d91"/><g stroke="#f35b99" stroke-width="3"><path d="M1110.0 49.0 L1119.0 49.0"/><path d="M1103.6 62.3 L1109.2 69.3"/><path d="M1089.2 65.6 L1087.2 74.3"/><path d="M1077.7 56.4 L1069.6 60.3"/><path d="M1077.7 41.6 L1069.6 37.7"/><path d="M1089.2 32.4 L1087.2 23.7"/><path d="M1103.6 35.7 L1109.2 28.7"/></g>
+</g>
+<!-- Lavender moon landscape -->
+<path d="M750 400 Q766 319 859 282 Q982 229 1101 278 Q1181 309 1200 356 L1200 400Z" fill="url(#moon)" stroke="#ba9cff" stroke-width="3"/>
+<g fill="#6b51ae" opacity=".55"><ellipse cx="842" cy="362" rx="33" ry="15" transform="rotate(-20 842 362)"/><ellipse cx="982" cy="347" rx="41" ry="23"/><ellipse cx="1142" cy="379" rx="36" ry="16"/><ellipse cx="1085" cy="307" rx="18" ry="10"/><circle cx="912" cy="390" r="11"/></g>
+<!-- floating code panel -->
+<g transform="translate(778 168) rotate(-6)">
+<rect width="120" height="142" rx="13" fill="#10183b" stroke="#795bff" stroke-width="4"/><rect x="10" y="12" width="100" height="13" rx="4" fill="#29265a"/>
+<g stroke-width="4" stroke-linecap="round"><path d="M18 42h34 M59 42h24 M18 59h13 M38 59h47 M18 76h63 M18 93h36 M60 93h21 M18 110h24 M48 110h44" stroke="#46c3ff"/><path d="M30 42h15 M46 76h36 M18 93h27 M70 110h18" stroke="#be83ff"/></g>
+</g>
+<!-- large QA results hologram -->
+<g transform="translate(886 114) rotate(4)">
+<rect width="189" height="173" rx="16" fill="#111b43" stroke="#4e97ff" stroke-width="5"/>
+<rect x="12" y="12" width="165" height="19" rx="6" fill="#25326c"/>
+<circle cx="37" cy="64" r="19" fill="#154f57" stroke="#5bf1d4" stroke-width="4"/><path d="M27 63l8 8 13-17" fill="none" stroke="#7dffe1" stroke-width="4"/>
+<text x="66" y="68" fill="#d8eaff" font-size="15" font-family="monospace">Tests Passed</text>
+<g stroke="#685cf1" stroke-width="8" stroke-linecap="round"><path d="M66 82h89 M35 111h113 M35 132h93 M35 152h105"/></g>
+<g fill="#58e0c5"><circle cx="18" cy="109" r="4"/><circle cx="18" cy="130" r="4"/><circle cx="18" cy="151" r="4"/></g>
+</g>
+<!-- Mobile dashboard -->
+<g transform="translate(1058 172) rotate(3)">
+<rect width="128" height="113" rx="13" fill="#12183c" stroke="#668fff" stroke-width="4"/>
+<rect x="9" y="11" width="109" height="13" rx="4" fill="#262960"/>
+<g font-family="monospace" font-size="26"><text x="20" y="63" fill="#60df9c">●</text><text x="71" y="63" fill="#d7c4fa">●</text></g>
+<g fill="#64b9ff"><rect x="23" y="85" width="13" height="15" rx="2"/><rect x="43" y="77" width="13" height="23" rx="2"/><rect x="63" y="70" width="13" height="30" rx="2"/><rect x="83" y="83" width="13" height="17" rx="2"/></g>
+</g>
+<!-- laptop in foreground -->
+<g transform="translate(899 276)">
+<path d="M0 0 L175 0 L195 103 L23 103Z" fill="#201845" stroke="#a58cff" stroke-width="6"/>
+<path d="M18 12 L163 12 L177 88 L33 88Z" fill="#111b43" stroke="#6252c5" stroke-width="2"/>
+<circle cx="104" cy="49" r="29" fill="#39266b" stroke="#8174ff" stroke-width="4"/><text x="82" y="56" font-size="24" fill="#67d8ff" font-family="monospace">&lt;/&gt;</text>
+<path d="M17 103 L195 103 L230 122 L0 122Z" fill="#7770b8" stroke="#d5baff" stroke-width="3"/><path d="M57 110h99" stroke="#2a2658" stroke-width="3"/>
+</g>
+<!-- checklist hologram top right -->
+<g transform="translate(1069 9) rotate(9)">
+<rect width="131" height="133" rx="8" fill="#17133a" stroke="#aa79ff" stroke-width="4"/>
+<g font-family="monospace" font-size="15" fill="#dbd2ff">
+<rect x="13" y="16" width="18" height="18" rx="3" fill="#8ef3d9" stroke="#a6e9ed" stroke-width="2"/><path d="M17 25l4 4 7 -9" fill="none" stroke="#182347" stroke-width="2"/><text x="41" y="31">Test</text><rect x="13" y="43" width="18" height="18" rx="3" fill="#8ef3d9" stroke="#a6e9ed" stroke-width="2"/><path d="M17 52l4 4 7 -9" fill="none" stroke="#182347" stroke-width="2"/><text x="41" y="58">Automate</text><rect x="13" y="70" width="18" height="18" rx="3" fill="#8ef3d9" stroke="#a6e9ed" stroke-width="2"/><path d="M17 79l4 4 7 -9" fill="none" stroke="#182347" stroke-width="2"/><text x="41" y="85">Report</text><rect x="13" y="97" width="18" height="18" rx="3" fill="none" stroke="#a6e9ed" stroke-width="2"/><text x="41" y="112">Improve</text></g>
+</g>
+<!-- Little orbiter astronaut icon -->
+<g transform="translate(726 89)"><circle cx="0" cy="0" r="25" fill="#d7d9fd" stroke="#a089ed" stroke-width="4"/><rect x="-20" y="-11" width="40" height="24" rx="10" fill="#171b40"/><text x="-14" y="7" fill="#6bf0d6" font-family="monospace" font-size="21">&lt;/&gt;</text><path d="M-9 26v11 M9 26v11" stroke="#c9c8f8" stroke-width="7"/><path d="M0 40l-7 13 7-4 7 4z" fill="#ff965e"/></g><text x="65" y="83" fill="#d9ceff" font-family="monospace" font-size="23" letter-spacing="5">HI, I'M</text>
 <text x="59" y="166" fill="url(#neon)" font-family="monospace" font-weight="bold" font-size="75">IANCA</text>
 <text x="65" y="214" fill="#f2efff" font-family="monospace" font-size="27">QA ENGINEER</text>
 <rect x="65" y="240" width="318" height="6" rx="3" fill="#37345b"/><rect x="65" y="240" width="227" height="6" rx="3" fill="url(#neon)"/>
