@@ -96,7 +96,7 @@ A documentação contempla critérios de aceite, além da definição de priorid
 
 ---
 
-## 📊 Atividade no GitHub
+## 📊 Atividades no GitHub
 
 <div align="center">
 
@@ -113,6 +113,5 @@ A documentação contempla critérios de aceite, além da definição de priorid
 
 ### ✨ Quality is a journey, not a checkpoint.
 
-*Obrigada por visitar meu perfil! Explore meus projetos e acompanhe minha evolução em QA.* 🦝🚀
 
 </div>
